@@ -1,5 +1,5 @@
 
-# My Python Examples.
+# My Python Examples [![Build Status](https://travis-ci.com/sivu1/Python-1.svg?branch=master)](https://travis-ci.org/sivu1/Python-1)
 
 Here is more detailed information about scripts I have written.  I do not consider myself a programmer; I create these little programs as experiments to play with the language, or to solve problems for myself.  I would gladly accept pointers from others to improve the code and make it more efficient, or simplify the code.  If you would like to make any comments then please feel free to email me at craig@geekcomputers.co.uk.
 These scripts are very important functions which help reduce the workload on people.
